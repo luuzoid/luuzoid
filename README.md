@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luuzoid
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me support@luuzoid.me
+- 📫 How to reach me ask@luuzoid.me
 
 <!---
 luuzoid/luuzoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
