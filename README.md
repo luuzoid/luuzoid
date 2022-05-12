@@ -1,5 +1,4 @@
-👋 Hi, I’m @luuzoid
-
+-👋 Hi, I’m @luuzoid
 - 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning Python, Java, and C++
 - 📫 How to reach me ask@luuzoid.me
