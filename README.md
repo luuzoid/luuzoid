@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luuzoid
-- 👀 I’m interested in Full Stack Developer
+- 👀 I’m interested in Backend Developer
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ask@luuzoid.me
 
