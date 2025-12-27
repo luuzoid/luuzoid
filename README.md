@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luuzoid
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Farid Habibie (username: @luuzoid).
+- 👀 I’m interested in Backend Developer, Machine Learning, and Robotics.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me ask@luuzoid.me
 
 <!---
